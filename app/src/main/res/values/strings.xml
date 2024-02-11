@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DataExample</string>
+    <string name="ingresar_datos_de_ciudad">INGRESAR DATOS DE CIUDAD</string>
+    <string name="codigo">codigo</string>
+    <string name="ciudad">ciudad</string>
+    <string name="ingresar_datos">INGRESAR DATOS</string>
+</resources>
